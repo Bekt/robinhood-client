@@ -6,17 +6,61 @@
 Robinhood Python Documentation
 ==============================
 
-Contents:
 
-.. toctree::
-   :maxdepth: 2
+API Reference
+-------------
 
+The API reference below is auto-generated from the source code.
 
+.. module:: robinhood
 
-Indices and tables
-==================
+.. automodule:: robinhood
+   :members:
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. autoclass:: User
+   :members:
 
+.. autoclass:: Account
+   :members:
+
+.. autoclass:: Order
+   :members:
+
+.. autoclass:: Notification
+   :members:
+
+.. autoclass:: Application
+   :members:
+
+.. autoclass:: Dividend
+   :members:
+
+.. autoclass:: Document
+   :members:
+
+.. autoclass:: Ach
+   :members:
+
+.. autoclass:: Watchlist
+   :members:
+
+.. autoclass:: Quote
+   :members:
+
+.. autoclass:: Market
+   :members:
+
+.. autoclass:: Upload
+   :members:
+
+.. autoclass:: Midland
+   :members:
+
+.. autoclass:: Portfolio
+   :members:
+
+.. autoclass:: Position
+   :members:
+
+.. autoclass:: Instrument
+   :members:

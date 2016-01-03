@@ -11,7 +11,7 @@ class Requestor(object):
             raise ValueError('No api base URL is provided.')
         self.api_base = api_base
         self.headers = {
-            'Authentication': 'Token {}'.format(auth_token),
+            'Authorization': 'Token {}'.format(auth_token),
             'X-Robinhood-API-Version': api_version
         }
 
